@@ -250,3 +250,6 @@ Run the app now and you should be able to see the output like this:
 - `AppLocalizations` loads the correct JSON file at runtime.
 - The `HomePage` uses the `.translate()` method to show the correct language strings.
 
+---
+
+This is also available in Medium: [Flutter State Management with Provider](https://medium.com/@sampath.katari/flutter-state-management-with-provider-a-practical-guide-on-building-a-language-switcher-1bb2aabf32ba)
